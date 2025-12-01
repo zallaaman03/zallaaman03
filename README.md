@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Zala Aman👋
+About Me
 
-<!--
-**zallaaman03/zallaaman03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Zala Aman, a Final-year Chemical Engineering student] at Uet Peshawar from Peshawar, Pakistan.
+I am interested in environmental engineering, wastewater treatment, and sustainable materials.
 
-Here are some ideas to get you started:
+Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Chemical process fundamentals
+
+Adsorbent synthesis & characterization
+
+Data analysis (Excel, Python)
+
+Laboratory techniques: filtration, titration, spectrophotometry
+
+Technical writing & literature review
+
+Projects
+
+Cadmium Removal Using Sweet Potato Biosorbent — Final year project investigating biosorbents for heavy metal removal. 
+
+Photocatalytic Adsorbent Study — Small research project on photocatalytic degradation of organic pollutants. 
+Contact
+
+Email: zallaaman03@gmail.com
+
+
